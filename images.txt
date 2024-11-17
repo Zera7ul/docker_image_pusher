@@ -5,3 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server:1.32.2
+vaultwarden/server:latest
+vaultwarden/server:testing
