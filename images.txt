@@ -7,3 +7,4 @@
 vaultwarden/server:1.32.2
 vaultwarden/server:latest
 vaultwarden/server:testing
+linzeyi/hivision_idphotos
